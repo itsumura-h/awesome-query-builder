@@ -1,6 +1,7 @@
 # Awesome Query Builder [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome query builders for any programming languages.
+A curated list of awesome query builders for any programming languages.   
+Query Builder is a library for accessing databases with a syntax similar to SQL with a method chain, **unlike ORM or ActiveRecord**.
 
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-nim](https://github.com/ringabout/awesome-nim)
 
@@ -13,7 +14,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-pytho
 - [Orator](https://orator-orm.com/) - The database query builder provides a fluent interface to create and run database queries.
 
 ## C#
-- [SqlKata](https://sqlkata.com/) - A fluent SQL query builder for C#
+- [SqlKata](https://sqlkata.com/) - A fluent SQL query builder for C#.
 
 ## Nim
-- [Allographer](https://github.com/itsumura-h/nim-allographer) - An asynchronous query builder library inspired by Laravel/PHP and Orator/Python for Nim
+- [Allographer](https://github.com/itsumura-h/nim-allographer) - An asynchronous query builder library inspired by Laravel/PHP and Orator/Python for Nim.
